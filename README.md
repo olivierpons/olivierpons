@@ -28,12 +28,12 @@ CNAM-qualified engineer taking software from specification to production — and
 | Skill | Level |
 |---|---|
 | 🤖 AI — coding agents, LLMs | ★★★★★ |
+| ⚡ Performance | ★★★★★ |
+| 🔒 Security | ★★★★★ |
 | 🐍 Python / Django | ★★★★★ |
-| 🧑‍🏫 Teacher — I speak the client's language | ★★★★★ |
-| 🔒 Security | ★★★★☆ |
-| ⚡ Performance | ★★★★☆ |
+| 🧑‍🏫 Teacher → 👔 Client: plain words 💬, no tech wall | ★★★★★ |
+| 🏗️ Web architecture | ★★★★☆ |
 | 📋 Project management | ★★★☆☆ |
-| 🏗️ Web architecture | ★★★☆☆ |
 | 🦀 Leading Rust projects | ★★★☆☆ |
 | 🐧 Linux & servers | ★★☆☆☆ |
 

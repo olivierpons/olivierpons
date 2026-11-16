@@ -2,6 +2,8 @@
 
 **Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/) | France 🇫🇷
 
+📄 [Résumé (EN)](https://www.olivierpons.com/resume/) · 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/)
+
 CNAM-qualified engineer taking software from specification to production — and keeping it running for years — since 1997. I lead teams of developers and, these days, teams of AI agents: I set their rules, their guardrails and the bar their work has to clear.
 
 ---
@@ -15,7 +17,7 @@ CNAM-qualified engineer taking software from specification to production — and
 - 🚀 **Focus:** Python/Django, AI coding agents, Rust projects, e-invoicing
 - 🗣️ **Languages:** French (native) · English (fluent, TOEIC 895/990)
 - 📚 **Credited** in the preface of **11 technical books** (Packt)
-- 🎓 **Taught 180 h** at university & engineering-school level
+- 🧑‍🏫 **Teacher for 10+ years** at [CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/), plus CESI Grenoble, IUT d'Aix and École des Mines
 - 🏆 **15 k+** [Stack Overflow](https://stackoverflow.com/users/106140/olivier-pons) reputation · **25 k+** across 42 [Stack Exchange](https://stackexchange.com/users/37145/olivier-pons) sites
 - ⏳ **25 years** of hand-written code before AI (1995 – 2020)
 
@@ -66,7 +68,7 @@ CNAM-qualified engineer taking software from specification to production — and
 
 | Project | Description | Tech |
 |---|---|---|
-| 📑 **[hqf-pdf](https://hqf.fr/)** | PDF generation & import library (~400 k lines, 2.6 k commits): PDF/A, PDF/UA, Factur-X, Python bindings | Rust (AI agents) |
+| 📑 **hqf-pdf** | PDF generation & import library (~400 k lines, 2.6 k commits): PDF/A, PDF/UA, Factur-X, Python bindings | Rust (AI agents) |
 | 🖨️ **hqf-pdf server** | HTTP rendering server driven by a JSON layout schema (~80 k lines) | Rust, axum |
 | 🌐 **hqf-pdf website** | The service's website (~220 k lines) | Django |
 | 🧾 **E-invoicing in production** | Factur-X, EN 16931 fields in CII, Sage export, migration of 9.6 M rows | Python, Django |
@@ -100,6 +102,18 @@ CNAM-qualified engineer taking software from specification to production — and
 
 ---
 
+## 🧑‍🏫 Teaching
+
+| School | Duration | Subjects |
+|---|---|---|
+| 🏫 **[CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/)** | 10 years | Python, Django, PHP, HTML, CSS, Linux, MVC, Node.js |
+| 🏔️ **[CESI Grenoble](https://www.onisep.fr/ressources/structures-enseignement/auvergne-rhone-alpes/isere/cesi-campus-de-grenoble)** | Twice | — |
+| 🎓 **IUT d'Aix-en-Provence** | 100 h | HTML, CSS, JavaScript, Node.js, C++, Linux, Apache, DNS, web security, Symfony, MVC |
+| ⛏️ **École des Mines, Gardanne** | 80 h | Web & mobile development, Apache, DNS |
+| 🤖 **AI training** | — | Prompt engineering for developers, coding agents in production pipelines, training a small model live |
+
+---
+
 ## 🎓 Education
 
 - 🎓 **2011** — Engineering degree in computer science, CNAM Aix-en-Provence (thesis with honours)
@@ -113,7 +127,8 @@ CNAM-qualified engineer taking software from specification to production — and
 
 I'm open to consulting, project leadership and training. Let's connect!
 
-- 📄 **Résumé:** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
+- 📄 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
+- 🇫🇷 **CV (FR):** [olivierpons.fr/cv](https://www.olivierpons.fr/cv/)
 - 🏢 **Company:** [hqf.fr](https://hqf.fr/)
 - 📝 **Blog:** [olivierpons.com](https://www.olivierpons.com/)
 - 💼 **LinkedIn:** [in/olivierponshqf](https://www.linkedin.com/in/olivierponshqf)

@@ -2,7 +2,7 @@
 
 **Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/en/)
 
-· 🇬🇧🇺🇸 [Résumé (EN)](https://www.olivierpons.com/resume/)· 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/) ·
+· 🇬🇧🇺🇸 [Résumé (EN)](https://www.olivierpons.com/resume/) · 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/) ·
 
 🎓 Graduate engineer (MSc-level engineering degree, CNAM, France) taking software from specification to production — and keeping it running for years — since 1997. I lead teams of developers and, these days, teams of AI agents: agentic workflows, custom harnesses, context engineering, guardrails and evals, with a human in the loop where it counts.
 
@@ -108,8 +108,8 @@
 | School | Duration | Subjects |
 |---|---|---|
 | 🏫 **[CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/)** | 10 years | Python, Django, PHP, HTML, CSS, Linux, MVC, Node.js |
-| 🏔️ **[CESI Grenoble](https://www.onisep.fr/ressources/structures-enseignement/auvergne-rhone-alpes/isere/cesi-campus-de-grenoble)** | Twice | — |
 | 🎓 **IUT d'Aix-en-Provence** | 8 years | HTML, CSS, JavaScript, Node.js, C++, Linux, Apache, DNS, web security, Symfony, MVC |
+| 🏔️ **[CESI Grenoble](https://www.onisep.fr/ressources/structures-enseignement/auvergne-rhone-alpes/isere/cesi-campus-de-grenoble)** | 2 years | Web & mobile development, JavaScript, Big data |
 | ⛏️ **École des Mines, Gardanne** | 2 years | Web & mobile development, Apache, DNS |
 | 🤖 **AI training** | 1 year | Prompt engineering for developers, coding agents in production pipelines, training a small model live |
 

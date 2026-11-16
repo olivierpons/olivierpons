@@ -19,7 +19,7 @@ CNAM-qualified engineer taking software from specification to production — and
 - 📚 **Credited** in the preface of **11 technical books** (Packt)
 - 🧑‍🏫 **Teacher for 10+ years** at [CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/), plus CESI Grenoble, IUT d'Aix and École des Mines
 - 🏆 **15 k+** [Stack Overflow](https://stackoverflow.com/users/106140/olivier-pons) reputation · **25 k+** across 42 [Stack Exchange](https://stackexchange.com/users/37145/olivier-pons) sites
-- ⏳ **25 years** of hand-written code before AI (1995 – 2020)
+- ⌨️ **30+ years** of hand-written code (1995 – today): still writing code by hand, AI or not
 
 ---
 
@@ -30,12 +30,12 @@ CNAM-qualified engineer taking software from specification to production — and
 | 🤖 AI — coding agents, LLMs | ★★★★★ |
 | 🐍 Python / Django | ★★★★★ |
 | 🧑‍🏫 Teacher — I speak the client's language | ★★★★★ |
+| 🔒 Security | ★★★★☆ |
+| ⚡ Performance | ★★★★☆ |
 | 📋 Project management | ★★★☆☆ |
 | 🏗️ Web architecture | ★★★☆☆ |
 | 🦀 Leading Rust projects | ★★★☆☆ |
 | 🐧 Linux & servers | ★★☆☆☆ |
-| 🔒 Security | ★★☆☆☆ |
-| ⚡ Performance | ★★☆☆☆ |
 
 ---
 
@@ -68,9 +68,9 @@ CNAM-qualified engineer taking software from specification to production — and
 
 | Project | Description | Tech |
 |---|---|---|
-| 📑 **hqf-pdf** | PDF generation & import library (~400 k lines, 2.6 k commits): PDF/A, PDF/UA, Factur-X, Python bindings | Rust (AI agents) |
+| 📑 **[hqf-pdf](https://hqf-pdf.com/en/)** | PDF generation & import library (~400 k lines, 2.6 k commits): PDF/A, PDF/UA, Factur-X, Python bindings | Rust (AI agents) |
 | 🖨️ **hqf-pdf server** | HTTP rendering server driven by a JSON layout schema (~80 k lines) | Rust, axum |
-| 🌐 **hqf-pdf website** | The service's website (~220 k lines) | Django |
+| 🌐 **[hqf-pdf website](https://hqf-pdf.com/en/)** | The service's website (~220 k lines) | Django |
 | 🧾 **E-invoicing in production** | Factur-X, EN 16931 fields in CII, Sage export, migration of 9.6 M rows | Python, Django |
 
 ### 🌐 Web Applications

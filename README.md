@@ -2,7 +2,8 @@
 
 **Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/en/)
 
-🇬🇧🇺🇸 [Résumé (EN)](https://www.olivierpons.com/resume/) · 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/)
+- 🇬🇧🇺🇸 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
+- 🏢 **Company:** [hqf.fr](https://hqf.fr/en/)
 
 🎓 Graduate engineer (MSc-level engineering degree, CNAM, France) taking software from specification to production — and keeping it running for years — since 1997. I lead teams of developers and, these days, teams of AI agents: I set their rules, their guardrails and the bar their work has to clear.
 
@@ -12,30 +13,33 @@
 
 ### Quick Facts
 
-- 🏡 **Based:** France — 💻 100% remote since 2012
-- 💼 **Status:** Founder & managing director @ [HQF Development](https://hqf.fr/) (EURL)
 - 🚀 **Focus:** Python/Django, AI coding agents, Rust projects, e-invoicing
-- 🗣️ **Languages:** French (native) · English (fluent, TOEIC 895/990)
-- 📚 **Credited** in the preface of **11 technical books** (Packt)
+- ⌨️ **30+ years** of hands-on coding (1995 – today), before and alongside AI
+- 💼 **Founder & managing director** @ [HQF Development](https://hqf.fr/en/)
 - 🧑‍🏫 **Teacher for 10+ years** at [CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/), plus CESI Grenoble, IUT d'Aix and École des Mines
 - 🏆 **15 k+** [Stack Overflow](https://stackoverflow.com/users/106140/olivier-pons) reputation · **25 k+** across 42 [Stack Exchange](https://stackexchange.com/users/37145/olivier-pons) sites
-- ⌨️ **30+ years** of hand-written code (1995 – today): still writing code by hand, AI or not
+- 📚 **Credited** in the preface of **11 technical books** (Packt)
+- 🗣️ **Languages:** French (native) · English (fluent, TOEIC 895/990)
+- 💻 **100% remote** since 2012 (based in France)
+
 
 ---
 
 ## 💪 Strengths
 
-| Skill | Level |
+## 💪 Strengths — strongest first
+
+| # | Skill |
 |---|---|
-| 🤖 AI — coding agents, LLMs | ★★★★★ |
-| ⚡ Performance | ★★★★★ |
-| 🔒 Security | ★★★★★ |
-| 🐍 Python / Django | ★★★★★ |
-| 🧑‍🏫 Teacher → 👔 Client: plain words 💬, no tech wall | ★★★★★ |
-| 🏗️ Web architecture | ★★★★☆ |
-| 📋 Project management | ★★★☆☆ |
-| 🦀 Leading Rust projects | ★★★☆☆ |
-| 🐧 Linux & servers | ★★☆☆☆ |
+| 1 | 🤖 AI — coding agents, LLMs |
+| 2 | 🐍 Python / Django |
+| 3 | 🧑‍🏫 Teacher → 👔 Client: plain words 💬, no tech wall |
+| 4 | ⚡ Performance |
+| 5 | 🔒 Security |
+| 6 | 🏗️ Web architecture |
+| 7 | 📋 Project management |
+| 8 | 🦀 Leading Rust projects |
+| 9 | 🐧 Linux & servers |
 
 ---
 
@@ -108,18 +112,18 @@
 |---|---|---|
 | 🏫 **[CESI Aix-en-Provence](https://www.cesi.fr/en/campuses/presentation-cesi-aix-provence-campus/)** | 10 years | Python, Django, PHP, HTML, CSS, Linux, MVC, Node.js |
 | 🏔️ **[CESI Grenoble](https://www.onisep.fr/ressources/structures-enseignement/auvergne-rhone-alpes/isere/cesi-campus-de-grenoble)** | Twice | — |
-| 🎓 **IUT d'Aix-en-Provence** | 100 h | HTML, CSS, JavaScript, Node.js, C++, Linux, Apache, DNS, web security, Symfony, MVC |
-| ⛏️ **École des Mines, Gardanne** | 80 h | Web & mobile development, Apache, DNS |
-| 🤖 **AI training** | — | Prompt engineering for developers, coding agents in production pipelines, training a small model live |
+| 🎓 **IUT d'Aix-en-Provence** | 8 years | HTML, CSS, JavaScript, Node.js, C++, Linux, Apache, DNS, web security, Symfony, MVC |
+| ⛏️ **École des Mines, Gardanne** | 2 years | Web & mobile development, Apache, DNS |
+| 🤖 **AI training** | 1 year | Prompt engineering for developers, coding agents in production pipelines, training a small model live |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **2011** — Engineering degree in computer science, CNAM Aix-en-Provence (thesis with honours)
+- 🎓 **2011** — MSc-level engineering degree in computer science, CNAM (thesis with honours)
 - 📜 **2005** — Networks & multimedia diploma, CNAM
 - 🇬🇧 **1996** — A year of computer science in Derby, UK
-- 🏫 **1995** — DUT in computer science, IUT d'Aix-en-Provence
+- 🏫 **1995** — 2-year technical degree in computer science (DUT), IUT d'Aix-en-Provence
 
 ---
 
@@ -129,7 +133,7 @@ I'm open to consulting, project leadership and training. Let's connect!
 
 - 📄 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
 - 🇫🇷 **CV (FR):** [olivierpons.fr/cv](https://www.olivierpons.fr/cv/)
-- 🏢 **Company:** [hqf.fr](https://hqf.fr/)
+- 🏢 **Company:** [hqf.fr](https://hqf.fr/en/)
 - 📝 **Blog:** [olivierpons.com](https://www.olivierpons.com/)
 - 💼 **LinkedIn:** [in/olivierponshqf](https://www.linkedin.com/in/olivierponshqf)
 

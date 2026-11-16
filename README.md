@@ -114,6 +114,7 @@ I'm open to consulting, project leadership and training. Let's connect!
 - 📄 **Résumé:** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
 - 🏢 **Company:** [hqf.fr](https://hqf.fr/)
 - 📝 **Blog:** [olivierpons.com](https://www.olivierpons.com/)
+- 💼 **LinkedIn:** [in/olivierponshqf](https://www.linkedin.com/in/olivierponshqf)
 
 ### 🌐 Community
 

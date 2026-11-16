@@ -11,12 +11,12 @@ CNAM-qualified engineer taking software from specification to production — and
 ### Quick Facts
 
 - 🏡 **Based:** France — 💻 100% remote since 2012
-- 💼 **Status:** Founder & managing director @ HQF Development (EURL)
+- 💼 **Status:** Founder & managing director @ [HQF Development](https://hqf.fr/) (EURL)
 - 🚀 **Focus:** Python/Django, AI coding agents, Rust projects, e-invoicing
 - 🗣️ **Languages:** French (native) · English (fluent, TOEIC 895/990)
 - 📚 **Credited** in the preface of **11 technical books** (Packt)
 - 🎓 **Taught 180 h** at university & engineering-school level
-- 🏆 **15 k+** Stack Overflow reputation · **25 k+** across 42 Stack Exchange sites
+- 🏆 **15 k+** [Stack Overflow](https://stackoverflow.com/users/106140/olivier-pons) reputation · **25 k+** across 42 [Stack Exchange](https://stackexchange.com/users/37145/olivier-pons) sites
 - ⏳ **25 years** of hand-written code before AI (1995 – 2020)
 
 ---
@@ -75,11 +75,13 @@ CNAM-qualified engineer taking software from specification to production — and
 
 | Project | Description | Tech |
 |---|---|---|
-| 💬 **time-for-fun.com** | Social network translated into 18 languages | Django |
-| 🏠 **visitadom.fr** | Design, development, optimisation and maintenance | Django |
-| ⌨️ **ergofip.com** | Multilingual site for a made-to-measure ergonomic keyboard | Django |
-| 💎 **krystallopolis.eu** | International Year of Crystallography site (CNRS, CEA): development & custom quiz plugin | WordPress |
-| ♿ **chouetteensemble.fr** | Responsive, accessible redesign; 100/100 SEO in Lighthouse | HTML, nginx |
+| 💬 **[time-for-fun.com](https://time-for-fun.com/)** | Social network translated into 18 languages | Django |
+| 🏠 **[visitadom.fr](https://visitadom.fr/)** | Design, development, optimisation and maintenance | Django |
+| ⌨️ **[ergofip.com](https://ergofip.com/)** | Multilingual site for a made-to-measure ergonomic keyboard | Django |
+| 💎 **[krystallopolis.eu](https://krystallopolis.eu/)** | International Year of Crystallography site (CNRS, CEA): development & custom quiz plugin | WordPress |
+| ♿ **[chouetteensemble.fr](https://chouetteensemble.fr/)** | Responsive, accessible redesign; 100/100 SEO in Lighthouse | HTML, nginx |
+| 🔨 **[papdevis.fr](https://papdevis.fr/)** | Connecting individuals and tradespeople around quote requests | PHP, Smarty |
+| 🏢 **[groupe-synergies.fr](https://groupe-synergies.fr/)** | Corporate website: development and maintenance | PHP, Smarty |
 
 ### 🎮 Games, 3D & Hardware
 
@@ -87,8 +89,8 @@ CNAM-qualified engineer taking software from specification to production — and
 |---|---|---|
 | 🕹️ **Networked 2D platformer** | Up to four players over ENet & WebSocket | Godot 4 |
 | 🎲 **[dice_problem_solver](https://github.com/olivierpons/dice_problem_solver)** | Pure C dice problem solver | C |
-| 🧊 **interlock-new-challenges** | 3D file (OBJ) generation in plain C | C |
-| ⌨️ **ZSA Moonlander firmware** | Custom layers, music mode, automatic mouse movement | QMK, C |
+| 🧊 **[interlock-new-challenges](https://github.com/olivierpons/interlock-new-challenges)** | 3D file (OBJ) generation in plain C | C |
+| ⌨️ **[ZSA Moonlander firmware](https://github.com/olivierpons/qmk_firmware)** | Custom layers, music mode, automatic mouse movement | QMK, C |
 
 ---
 

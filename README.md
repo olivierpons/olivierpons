@@ -128,7 +128,7 @@
 
 I'm open to consulting, project leadership and training. Let's connect!
 
-- 📄 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
+- 🇬🇧🇺🇸 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
 - 🇫🇷 **CV (FR):** [olivierpons.fr/cv](https://www.olivierpons.fr/cv/)
 - 🏢 **Company:** [hqf.fr](https://hqf.fr/en/)
 - 📝 **Blog:** [olivierpons.com](https://www.olivierpons.com/)

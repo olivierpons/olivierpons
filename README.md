@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Olivier Pons
 
-**Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/) | France 🇫🇷
+**Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/en/) | France 🇫🇷
 
 📄 [Résumé (EN)](https://www.olivierpons.com/resume/) · 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/)
 

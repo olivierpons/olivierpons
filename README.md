@@ -2,10 +2,9 @@
 
 **Software engineer & project lead — Python/Django, AI, leading Rust projects** | Founder @ [HQF Development](https://hqf.fr/en/)
 
-- 🇬🇧🇺🇸 **Résumé (EN):** [olivierpons.com/resume](https://www.olivierpons.com/resume/)
-- 🏢 **Company:** [hqf.fr](https://hqf.fr/en/)
+· 🇬🇧🇺🇸 [Résumé (EN)](https://www.olivierpons.com/resume/)· 🇫🇷 [CV (FR)](https://www.olivierpons.fr/cv/) ·
 
-🎓 Graduate engineer (MSc-level engineering degree, CNAM, France) taking software from specification to production — and keeping it running for years — since 1997. I lead teams of developers and, these days, teams of AI agents: I set their rules, their guardrails and the bar their work has to clear.
+🎓 Graduate engineer (MSc-level engineering degree, CNAM, France) taking software from specification to production — and keeping it running for years — since 1997. I lead teams of developers and, these days, teams of AI agents: agentic workflows, custom harnesses, context engineering, guardrails and evals, with a human in the loop where it counts.
 
 ---
 
@@ -24,8 +23,6 @@
 
 
 ---
-
-## 💪 Strengths
 
 ## 💪 Strengths — strongest first
 
